@@ -1,0 +1,27 @@
+- cpu: ryzen threadripper 1950x [:cap 505]
+  + enough pcie lanes
+  + 16 cores
+
+- mobo: rog zenith extreme [:cap 614]
+  + min 4 pcie slots for gpus
+  + 128 gb ram
+  + overclock
+
+- gpu x4: rtx 2080 ti [:cap 1260]
+  + founder edition for easy mod?
+  + blower style
+  + asus
+  + nvlink ?
+
+- ram x8: 16 gb
+
+- nvme/ssd/hdd
+
+- psu:
+  + 8-pin pcie
+  + min 650w
+
+- cooling
+  + custom water loop
+
+- case
